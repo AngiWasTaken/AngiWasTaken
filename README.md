@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Angelo from Verona, Italy<br><br>- 🔭 I’m a student at the ITI Marconi<br>- 📚 I'm currently learning Pyhton, Java, C++ and mostly Cybersecurity<br>- ⚡ In my free time I take  walks, and of course, code</p>
+<p align="left">I'm Angelo from Verona, Italy<br><br>- 🔭 I’m a student at the ITI Marconi<br>- 📚 I'm currently learning Python, Java, C++ and mostly Cybersecurity<br>- ⚡ In my free time I take  walks, and of course, code</p>
 
 ###
 
